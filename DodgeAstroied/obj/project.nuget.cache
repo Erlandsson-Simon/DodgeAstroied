@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mycmsEFzW3Ji4JV+8R1PwMrF0KOVVwaQUYIq48D16UHjWVqggl6H5E0URZ4zpbQE/yHb2dcNWeN5pE0ZEklJ8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erlandsson.simon\\null\\DodgeAstroied\\DodgeAstroied\\DodgeAstroied.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erlandsson.simon\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\erlandsson.simon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
