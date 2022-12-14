@@ -36,14 +36,17 @@ void Sum()
 {
     string newRow = $"{gender}, {age}, {music}, ";
 
+    int temp = 0;
+
     foreach (var v in results)
     {
-        newRow += v + ", ";
+        temp ++;
+        newRow += $"{temp}. {v}, ";
     }
 
     int avg = (int)results.Average();
     int best = results.Max();
-    newRow += $"{best}, {avg}";
+    newRow += $"B: {best}, Avg: {avg}";
 
     File.AppendAllText("values.txt", "\n" + newRow);
 }
